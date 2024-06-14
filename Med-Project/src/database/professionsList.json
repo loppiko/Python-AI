@@ -1,0 +1,21 @@
+{
+    "Physician": ["Doctor", "Surgeon", "General Practitioner"],
+    "Nurse": ["Registered Nurse", "Licensed Practical Nurse", "Nurse Practitioner"],
+    "Surgeon": ["Doctor", "Physician", "General Surgeon"],
+    "Anesthesiologist": ["Doctor", "Physician", "Anesthesia Nurse"],
+    "Pharmacist": ["Clinical Pharmacist", "Hospital Pharmacist", "Pharmacy Technician"],
+    "Radiologist": ["Medical Imaging Technologist", "Radiology Technician"],
+    "Medical Technologist": ["Clinical Laboratory Scientist", "Medical Laboratory Technician"],
+    "Respiratory Therapist": ["Respiratory Technician", "Respiratory Nurse"],
+    "Physical Therapist": ["Physiotherapist", "Rehabilitation Specialist"],
+    "Occupational Therapist": ["Occupational Therapy Assistant", "Rehabilitation Specialist"],
+    "Dietitian": ["Nutritionist", "Dietetic Technician"],
+    "Social Worker": ["Clinical Social Worker", "Case Manager"],
+    "Medical Assistant": ["Clinical Assistant", "Medical Secretary"],
+    "Medical Interpreter": ["Language Interpreter", "Translator"],
+    "Hospital Administrator": ["Healthcare Manager", "Hospital Executive"],
+    "Medical Biller/Coder": ["Medical Records Clerk", "Medical Coding Specialist"],
+    "Patient Care Technician": ["Nursing Assistant", "Medical Assistant"],
+    "Orderly": ["Hospital Attendant", "Patient Transporter"],
+    "Housekeeper": ["Environmental Services Technician", "Janitorial Worker"]
+}

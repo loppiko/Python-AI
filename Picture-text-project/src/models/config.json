@@ -1,0 +1,6 @@
+{
+    "embedding_dim": 256,
+    "latent_dim": 512,
+    "max_len_keywords": 50,
+    "max_len_sentences": 100
+}

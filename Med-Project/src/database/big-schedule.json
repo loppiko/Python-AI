@@ -1,0 +1,527 @@
+[
+    {
+        "day": 0,
+        "events": [
+            {
+                "time": "09:00-10:00",
+                "role": "Doctor",
+                "activity": "Consultation"
+            },
+            {
+                "time": "10:30-12:00",
+                "role": "Registered Nurse",
+                "activity": "Patient Care"
+            },
+            {
+                "time": "13:00-14:00",
+                "role": "General Surgeon",
+                "activity": "Surgery"
+            },
+            {
+                "time": "15:00-16:00",
+                "role": "Pharmacy Technician",
+                "activity": "Medication Preparation"
+            },
+            {
+                "time": "09:00-10:00",
+                "role": "Doctor",
+                "activity": "Consultation"
+            },
+            {
+                "time": "10:00-11:00",
+                "role": "Registered Nurse",
+                "activity": "Patient Care"
+            },
+            {
+                "time": "11:00-12:00",
+                "role": "General Surgeon",
+                "activity": "Surgery"
+            },
+            {
+                "time": "12:00-13:00",
+                "role": "Pharmacy Technician",
+                "activity": "Medication Preparation"
+            },
+            {
+                "time": "13:00-14:00",
+                "role": "Clinical Pharmacist",
+                "activity": "Medication Review"
+            },
+            {
+                "time": "14:00-15:00",
+                "role": "Nursing Assistant",
+                "activity": "Patient Care"
+            },
+            {
+                "time": "15:00-16:00",
+                "role": "Occupational Therapy Assistant",
+                "activity": "Therapy Session"
+            },
+            {
+                "time": "16:00-17:00",
+                "role": "Hospital Attendant",
+                "activity": "Patient Transport"
+            },
+            {
+                "time": "17:00-18:00",
+                "role": "Clinical Social Worker",
+                "activity": "Counseling Session"
+            },
+            {
+                "time": "18:00-19:00",
+                "role": "Anesthesia Nurse",
+                "activity": "Pre-Surgery Preparation"
+            }
+        ]
+    },
+    {
+        "day": 1,
+        "events": [
+            {
+                "time": "09:00-10:30",
+                "role": "Physiotherapist",
+                "activity": "Rehabilitation Session"
+            },
+            {
+                "time": "11:00-12:30",
+                "role": "Radiology Technician",
+                "activity": "Imaging Procedure"
+            },
+            {
+                "time": "13:00-14:00",
+                "role": "Dietitian",
+                "activity": "Nutritional Consultation"
+            },
+            {
+                "time": "15:00-16:00",
+                "role": "Hospital Executive",
+                "activity": "Administrative Meeting"
+            },
+            {
+                "time": "09:00-10:00",
+                "role": "Doctor",
+                "activity": "Consultation"
+            },
+            {
+                "time": "10:00-11:00",
+                "role": "Radiology Technician",
+                "activity": "Imaging Procedure"
+            },
+            {
+                "time": "11:00-12:00",
+                "role": "Dietitian",
+                "activity": "Nutritional Consultation"
+            },
+            {
+                "time": "12:00-13:00",
+                "role": "Hospital Executive",
+                "activity": "Administrative Meeting"
+            },
+            {
+                "time": "13:00-14:00",
+                "role": "Medical Laboratory Technician",
+                "activity": "Lab Tests"
+            },
+            {
+                "time": "14:00-15:00",
+                "role": "Case Manager",
+                "activity": "Patient Case Review"
+            },
+            {
+                "time": "15:00-16:00",
+                "role": "Respiratory Technician",
+                "activity": "Respiratory Therapy"
+            },
+            {
+                "time": "16:00-17:00",
+                "role": "Medical Coding Specialist",
+                "activity": "Coding and Billing"
+            },
+            {
+                "time": "17:00-18:00",
+                "role": "Nursing Assistant",
+                "activity": "Patient Care"
+            },
+            {
+                "time": "18:00-19:00",
+                "role": "Medical Interpreter",
+                "activity": "Interpretation Services"
+            }
+        ]
+    },
+    {
+        "day": 2,
+        "events": [
+            {
+                "time": "09:00-10:00",
+                "role": "Medical Laboratory Technician",
+                "activity": "Lab Tests"
+            },
+            {
+                "time": "10:30-12:00",
+                "role": "Case Manager",
+                "activity": "Patient Case Review"
+            },
+            {
+                "time": "13:00-14:00",
+                "role": "Respiratory Technician",
+                "activity": "Respiratory Therapy"
+            },
+            {
+                "time": "15:00-16:00",
+                "role": "Medical Coding Specialist",
+                "activity": "Coding and Billing"
+            },
+            {
+                "time": "09:00-10:00",
+                "role": "Clinical Pharmacist",
+                "activity": "Medication Review"
+            },
+            {
+                "time": "10:00-11:00",
+                "role": "Medical Imaging Technologist",
+                "activity": "Imaging Procedure"
+            },
+            {
+                "time": "11:00-12:00",
+                "role": "Registered Nurse",
+                "activity": "Patient Care"
+            },
+            {
+                "time": "12:00-13:00",
+                "role": "Dietitian",
+                "activity": "Nutritional Consultation"
+            },
+            {
+                "time": "13:00-14:00",
+                "role": "Rehabilitation Specialist",
+                "activity": "Therapy Session"
+            },
+            {
+                "time": "14:00-15:00",
+                "role": "Clinical Social Worker",
+                "activity": "Counseling Session"
+            },
+            {
+                "time": "15:00-16:00",
+                "role": "Pharmacy Technician",
+                "activity": "Medication Preparation"
+            },
+            {
+                "time": "16:00-17:00",
+                "role": "Occupational Therapy Assistant",
+                "activity": "Therapy Session"
+            },
+            {
+                "time": "17:00-18:00",
+                "role": "Hospital Attendant",
+                "activity": "Patient Transport"
+            },
+            {
+                "time": "18:00-19:00",
+                "role": "Anesthesia Nurse",
+                "activity": "Pre-Surgery Preparation"
+            }
+        ]
+    },
+    {
+        "day": 3,
+        "events": [
+            {
+                "time": "09:00-10:30",
+                "role": "Clinical Pharmacist",
+                "activity": "Medication Review"
+            },
+            {
+                "time": "11:00-12:00",
+                "role": "Nursing Assistant",
+                "activity": "Patient Care"
+            },
+            {
+                "time": "13:00-14:00",
+                "role": "Occupational Therapy Assistant",
+                "activity": "Therapy Session"
+            },
+            {
+                "time": "15:00-16:00",
+                "role": "Hospital Attendant",
+                "activity": "Patient Transport"
+            },
+            {
+                "time": "09:00-10:00",
+                "role": "Registered Nurse",
+                "activity": "Patient Care"
+            },
+            {
+                "time": "10:00-11:00",
+                "role": "Medical Laboratory Technician",
+                "activity": "Lab Tests"
+            },
+            {
+                "time": "11:00-12:00",
+                "role": "Physiotherapist",
+                "activity": "Rehabilitation Session"
+            },
+            {
+                "time": "12:00-13:00",
+                "role": "General Surgeon",
+                "activity": "Surgery"
+            },
+            {
+                "time": "13:00-14:00",
+                "role": "Clinical Social Worker",
+                "activity": "Counseling Session"
+            },
+            {
+                "time": "14:00-15:00",
+                "role": "Medical Coding Specialist",
+                "activity": "Coding and Billing"
+            },
+            {
+                "time": "15:00-16:00",
+                "role": "Medical Secretary",
+                "activity": "Administrative Tasks"
+            },
+            {
+                "time": "16:00-17:00",
+                "role": "Environmental Services Technician",
+                "activity": "Sanitation"
+            },
+            {
+                "time": "17:00-18:00",
+                "role": "Rehabilitation Specialist",
+                "activity": "Therapy Session"
+            },
+            {
+                "time": "18:00-19:00",
+                "role": "Medical Interpreter",
+                "activity": "Interpretation Services"
+            }
+        ]
+    },
+    {
+        "day": 4,
+        "events": [
+            {
+                "time": "09:00-10:00",
+                "role": "Clinical Social Worker",
+                "activity": "Counseling Session"
+            },
+            {
+                "time": "10:30-12:00",
+                "role": "Anesthesia Nurse",
+                "activity": "Pre-Surgery Preparation"
+            },
+            {
+                "time": "13:00-14:00",
+                "role": "Medical Secretary",
+                "activity": "Administrative Tasks"
+            },
+            {
+                "time": "15:00-16:00",
+                "role": "Environmental Services Technician",
+                "activity": "Sanitation"
+            },
+            {
+                "time": "09:00-10:00",
+                "role": "Doctor",
+                "activity": "Consultation"
+            },
+            {
+                "time": "10:00-11:00",
+                "role": "Nurse Practitioner",
+                "activity": "Patient Care"
+            },
+            {
+                "time": "11:00-12:00",
+                "role": "Respiratory Nurse",
+                "activity": "Respiratory Care"
+            },
+            {
+                "time": "12:00-13:00",
+                "role": "Occupational Therapy Assistant",
+                "activity": "Therapy Session"
+            },
+            {
+                "time": "13:00-14:00",
+                "role": "Clinical Pharmacist",
+                "activity": "Medication Review"
+            },
+            {
+                "time": "14:00-15:00",
+                "role": "Environmental Services Technician",
+                "activity": "Sanitation"
+            },
+            {
+                "time": "15:00-16:00",
+                "role": "Radiology Technician",
+                "activity": "Imaging Procedure"
+            },
+            {
+                "time": "16:00-17:00",
+                "role": "Hospital Executive",
+                "activity": "Administrative Meeting"
+            },
+            {
+                "time": "17:00-18:00",
+                "role": "Registered Nurse",
+                "activity": "Patient Care"
+            },
+            {
+                "time": "18:00-19:00",
+                "role": "Medical Records Clerk",
+                "activity": "Record Management"
+            }
+        ]
+    },
+    {
+        "day": 5,
+        "events": [
+            {
+                "time": "09:00-10:30",
+                "role": "Rehabilitation Specialist",
+                "activity": "Therapy Session"
+            },
+            {
+                "time": "11:00-12:00",
+                "role": "Medical Interpreter",
+                "activity": "Interpretation Services"
+            },
+            {
+                "time": "13:00-14:00",
+                "role": "Medical Records Clerk",
+                "activity": "Record Management"
+            },
+            {
+                "time": "15:00-16:00",
+                "role": "Respiratory Nurse",
+                "activity": "Respiratory Care"
+            },
+            {
+                "time": "09:00-10:00",
+                "role": "Clinical Laboratory Scientist",
+                "activity": "Lab Tests"
+            },
+            {
+                "time": "10:00-11:00",
+                "role": "Licensed Practical Nurse",
+                "activity": "Patient Care"
+            },
+            {
+                "time": "11:00-12:00",
+                "role": "General Practitioner",
+                "activity": "General Consultation"
+            },
+            {
+                "time": "12:00-13:00",
+                "role": "Dietetic Technician",
+                "activity": "Nutritional Consultation"
+            },
+            {
+                "time": "13:00-14:00",
+                "role": "Hospital Pharmacist",
+                "activity": "Medication Dispensation"
+            },
+            {
+                "time": "14:00-15:00",
+                "role": "Language Interpreter",
+                "activity": "Language Services"
+            },
+            {
+                "time": "15:00-16:00",
+                "role": "Nurse Practitioner",
+                "activity": "Patient Care"
+            },
+            {
+                "time": "16:00-17:00",
+                "role": "Rehabilitation Specialist",
+                "activity": "Therapy Session"
+            },
+            {
+                "time": "17:00-18:00",
+                "role": "Janitorial Worker",
+                "activity": "Cleaning"
+            },
+            {
+                "time": "18:00-19:00",
+                "role": "Clinical Assistant",
+                "activity": "Patient Assistance"
+            }
+        ]
+    },
+    {
+        "day": 6,
+        "events": [
+            {
+                "time": "09:00-10:00",
+                "role": "Nutritionist",
+                "activity": "Dietary Planning"
+            },
+            {
+                "time": "10:30-12:00",
+                "role": "Language Interpreter",
+                "activity": "Language Services"
+            },
+            {
+                "time": "13:00-14:00",
+                "role": "Rehabilitation Specialist",
+                "activity": "Therapy Session"
+            },
+            {
+                "time": "15:00-16:00",
+                "role": "Janitorial Worker",
+                "activity": "Cleaning"
+            },
+            {
+                "time": "09:00-10:00",
+                "role": "Nutritionist",
+                "activity": "Dietary Planning"
+            },
+            {
+                "time": "10:00-11:00",
+                "role": "Language Interpreter",
+                "activity": "Language Services"
+            },
+            {
+                "time": "11:00-12:00",
+                "role": "Rehabilitation Specialist",
+                "activity": "Therapy Session"
+            },
+            {
+                "time": "12:00-13:00",
+                "role": "Janitorial Worker",
+                "activity": "Cleaning"
+            },
+            {
+                "time": "13:00-14:00",
+                "role": "Hospital Pharmacist",
+                "activity": "Medication Dispensation"
+            },
+            {
+                "time": "14:00-15:00",
+                "role": "Medical Secretary",
+                "activity": "Administrative Tasks"
+            },
+            {
+                "time": "15:00-16:00",
+                "role": "Nursing Assistant",
+                "activity": "Patient Care"
+            },
+            {
+                "time": "16:00-17:00",
+                "role": "Case Manager",
+                "activity": "Patient Case Review"
+            },
+            {
+                "time": "17:00-18:00",
+                "role": "Respiratory Nurse",
+                "activity": "Respiratory Care"
+            },
+            {
+                "time": "18:00-19:00",
+                "role": "Clinical Social Worker",
+                "activity": "Counseling Session"
+            }
+        ]
+    }
+]
